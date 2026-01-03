@@ -47,7 +47,7 @@ For full details, see:
 
 ---
 
-## 📁 Suggested Repo Structure
+## 📁 Repo Structure
 
 ```text
 .
@@ -55,6 +55,6 @@ For full details, see:
 ├── HOW_TO_USE.md             # Setup and usage instructions
 ├── METHODOLOGY.md            # Approach, algorithms, and system design
 ├── REQUIREMENTS.md           # Dependencies and environment
-├── Tic_tak_toe.docx.docx     # Project report / paper
+├── Tic_tak_toe.docx    # Project report / paper
 └── README.md                 # Project overview
 ```
