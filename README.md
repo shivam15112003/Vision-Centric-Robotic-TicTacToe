@@ -52,7 +52,6 @@ For full details, see:
 ```text
 .
 ├── Tic_tak_toe.py            # Main robot + vision + Minimax script
-├── camera.py                 # Camera/vision helper module (grid + cell detection)
 ├── HOW_TO_USE.md             # Setup and usage instructions
 ├── METHODOLOGY.md            # Approach, algorithms, and system design
 ├── REQUIREMENTS.md           # Dependencies and environment
