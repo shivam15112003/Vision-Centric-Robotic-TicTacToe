@@ -16,6 +16,9 @@ An overhead camera is the only sensor:
 - ▶️ **YouTube Demo (Shorts)**:  
   https://youtube.com/shorts/80Viijxftmc?si=0B3xEiCY_VNAyPee
 
+- 📄 **Technical Report Included**:  
+  This repository also contains a detailed **project documentation/report (`.docx`)** explaining the system design, vision pipeline, decision logic, and experimental setup.
+
 ---
 
 ## 🚀 Quick Start
